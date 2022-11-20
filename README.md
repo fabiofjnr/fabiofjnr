@@ -1,8 +1,8 @@
 ## <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">・ Ooi, eu sou o Fábio Júnior :)</h1>
 
-- 💻 | Aprendendo Análise e Desenvolvimento de Sistemas
-- 👨‍💻 | Estudando na Etec Martinho Di Ciero Itu - Extensão Fatec
-- 🙋‍♂️ | Pronomes: Ele/dele
+<p align="center"> 💻 | Aprendendo Análise e Desenvolvimento de Sistemas</p>
+<p align="center"> 👨‍💻 | Estudando na Etec Martinho Di Ciero Itu - Extensão Fatec</p>
+<p align="center"> 🙋‍♂️ | Pronomes: Ele/dele</p>
 
 ##
   
