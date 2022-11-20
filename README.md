@@ -4,7 +4,7 @@
 <p align="center"> 👨‍💻 | Estudando na Etec Martinho Di Ciero Itu - Extensão Fatec</p>
 <p align="center"> 🙋‍♂️ | Pronomes: Ele/dele</p>
 
-<img src="https://cdn.discordapp.com/attachments/953748243156721750/953857717221593118/linha_staff-1.gif" width="1100" height="8">
+<img src="https://media.discordapp.net/attachments/953748243156721750/967872443807055902/linha_8-3-1-3-1-1.gif" width="1100" height="10">
 
   
   <div align="center">
@@ -22,7 +22,7 @@
   <a href="https://github.com/fabiofjnr"><img align="center" alt="Junior-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></a>
 </div>
 
-<img src="https://cdn.discordapp.com/attachments/953748243156721750/953857717221593118/linha_staff-1.gif" width="1100" height="8">
+<img src="https://media.discordapp.net/attachments/953748243156721750/967872443807055902/linha_8-3-1-3-1-1.gif" width="1100" height="10">
 
 <div align="center" style="display: inline_block">
  <a href = "mailto:fabiojunior.nandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
