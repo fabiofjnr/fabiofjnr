@@ -1,5 +1,5 @@
-<p font-size="150pt" align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">・ Ooi, eu sou o Fábio Júnior :)</p>
-<img src="https://img.freepik.com/vetores-gratis/fundo-borrado-colorido_1035-3289.jpg?w=2000" width="1100" height="10">
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">・ Ooi, eu sou o Fábio Júnior :)</h1>
+
 <p align="center"> 💻 | Aprendendo Análise e Desenvolvimento de Sistemas</p>
 <p align="center"> 👨‍💻 | Estudando na Etec Martinho Di Ciero Itu - Extensão Fatec</p>
 <p align="center"> 🙋‍♂️ | Pronomes: Ele/dele</p>
