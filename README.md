@@ -16,6 +16,7 @@
   <a href="https://github.com/fabiofjnr"><img align="center" alt="Junior-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/fabiofjnr"><img align="center" alt="Junior-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a href="https://github.com/fabiofjnr"><img align="center" alt="Junior-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></a>
+  <a href="https://github.com/fabiofjnr"><img align="center" alt="Junior-Gimp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"></a>
 </div>
 
 <img src="https://img.freepik.com/vetores-gratis/fundo-borrado-colorido_1035-3289.jpg?w=2000" width="1100" height="10">
